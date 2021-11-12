@@ -97,7 +97,7 @@ window.snake.more_menu = function(e) {
 
   // bullet
   img = new Image;
-  img.src = 'https://i.postimg.cc/xCqBt7dD/bullet.png';
+  img.src = 'https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
